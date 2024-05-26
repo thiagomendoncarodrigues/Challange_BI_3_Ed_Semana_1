@@ -14,8 +14,11 @@ Propósito:
 A análise visa fornecer à equipe de gerência do blog insights valiosos para embasar a tomada de decisões estratégicas, otimizar o desempenho das campanhas e alcançar os objetivos de negócios de forma eficaz. Através da análise de dados e da criação de um dashboard estratégico em marketing, o projeto busca:
 
 **Mensurar o desempenho das campanhas:** Avaliar o alcance, engajamento e conversão das campanhas realizadas em 2021, identificando os canais e estratégias mais eficientes.
+
 **Estabelecer métricas-chave:** Definir indicadores relevantes para acompanhar o progresso das campanhas e o impacto das ações de marketing no negócio.
+
 **Esclarecer dúvidas e embasar decisões:** Fornecer à equipe de gerência dados concretos e análises aprofundadas para auxiliar na tomada de decisões estratégicas sobre as campanhas de marketing.
+
 **Validar a estratégia de marketing**: Validar a efetividade da estratégia de marketing atual e identificar oportunidades de otimização para impulsionar o crescimento do blog.
 
 
