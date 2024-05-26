@@ -5,14 +5,18 @@ Repositorio dedicado ao projeto da primeiro projeto do Challange BI 3 Edição
 
 ## Analisando campanha de marketing👩‍💻
 
+Objetivo:
 
+Este projeto tem como objetivo principal realizar uma análise abrangente das campanhas de marketing do Blog Bloco de Código durante o ano de 2021. O Bloco de Código é um blog especializado em tecnologia, oferecendo conteúdo informativo e relevante sobre diversos temas, como dados, marketing, experiência do usuário e muito mais.
 
-Objetivo: O proposito desse projeto é realizar uma analise das companhas de marketing da empresa Bloco de Código. A empresa é um blog que possui diversos artigos na área de tecnologia, 
-como dados, marketing, experiência do usuário e vários outros assuntos.
+Propósito:
 
-Visando fornecer suporte a equipe de gerencia em sua tomada de descisões, estabelecer métricas e esclarecer as dúvidas. Para chegar a tais conclusões iremos ultilizar um dashboard estratégico em marketing para monitorar as camapnhas realizadas durante o ano de 2021. Esse relatório irá possuir indicadores importantes para a validação estratégica do negócio.
+A análise visa fornecer à equipe de gerência do blog insights valiosos para embasar a tomada de decisões estratégicas, otimizar o desempenho das campanhas e alcançar os objetivos de negócios de forma eficaz. Através da análise de dados e da criação de um dashboard estratégico em marketing, o projeto busca:
 
-
+**Mensurar o desempenho das campanhas:** Avaliar o alcance, engajamento e conversão das campanhas realizadas em 2021, identificando os canais e estratégias mais eficientes.
+**Estabelecer métricas-chave:** Definir indicadores relevantes para acompanhar o progresso das campanhas e o impacto das ações de marketing no negócio.
+**Esclarecer dúvidas e embasar decisões:** Fornecer à equipe de gerência dados concretos e análises aprofundadas para auxiliar na tomada de decisões estratégicas sobre as campanhas de marketing.
+**Validar a estratégia de marketing**: Validar a efetividade da estratégia de marketing atual e identificar oportunidades de otimização para impulsionar o crescimento do blog.
 
 
 ## Dashboard
